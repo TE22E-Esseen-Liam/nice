@@ -1,0 +1,14 @@
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\övning.AssemblyInfoInputs.cache
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\övning.AssemblyInfo.cs
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\övning.csproj.CoreCompileInputs.cache
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\bin\Debug\net7.0\övning.exe
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\bin\Debug\net7.0\övning.deps.json
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\bin\Debug\net7.0\övning.runtimeconfig.json
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\bin\Debug\net7.0\övning.dll
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\bin\Debug\net7.0\övning.pdb
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\övning.dll
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\refint\övning.dll
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\övning.pdb
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\övning.genruntimeconfig.cache
+C:\Users\liam.esseen\Documents\Programmering\nice\övning\obj\Debug\net7.0\ref\övning.dll
